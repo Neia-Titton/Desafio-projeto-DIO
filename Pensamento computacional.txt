@@ -1,0 +1,176 @@
+
+Raciocínio lógico é algo que deve ser treinado pelo nosso cérebro.
+
+Como construir um algoritmo?
+- compreenção do problema
+- definição de dados de entrada
+- definir processamento
+- utilizar método de construção
+- teste diagnóstico
+
+" Everybody in his country should learn how to program a computer because it teaches you how to think."
+            
+              Steve Jobs
+
+Técnicas de lógica de programação 
+
+planta baixa -> projeto -> planejamento 
+
+Técnica linear
+ - execução sequenciada = ordenação de elementos por uma única propriedade
+ Recursos limitados
+únia dimensão
+-modelo tradicional
+
+
+Técnica estruturada
+- Organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato) 
+
+           |-escrita
+ Objetivo< |-entendimento
+           |-validação
+           |-manuntenção
+
+Ténicca modular
+Controlada por um conjunto de regras
+Vários módulos, partes independentes
+dados de ->  Processo de -> Dados de 
+entrada     transformação     saída
+
+
+Variável
+
+Tipo de estrutura mutável , inconstante, instável , não há certeza do seu valor
+está restrita ao seu tipo , eu sei que tipo é, mas eu não sei exato o seu valor
+em uma variável é vedado uso de palavras reservadas caracteres e números.
+ Ela será de Ação = quando modifica o estado do programa, e de Controle quando ela é vigiada, controle de alguma estrutura , ou dentro de uma equação.
+
+Constante
+É inalterável , o que não muda, invariável . É tudo aquilo que é fixo ou estável.
+
+ex: pi=3,14  phi=1,618
+
+posso usa uma variável dentro de uma constante, então esse valor passa a ser um valor constante
+
+Instruções primitivas
+
+-cálculo matemático -> variáveis -> operadores -> binário
+           -> unário
+                    
+                 constantes
+
+  Estrutura Condicional
+
+Operadores Relacionais
+ = igual a
+<> diferente de
+> maior que
+< menor que
+>= maior ou igual a
+<= menor ou igual a
+
+Início programa:
+A=0
+B=0
+X=0
+
+leia A
+leia B
+
+x= A+B
+
+se (X > 10)
+escreva 
+
+Fim se 
+
+Fim programa
+
+Estrutura condicional
+
+Início programa:
+A=0
+B=0
+X=0
+
+leia A
+leia B
+
+x= A + B
+
+se (X >= 10)
+    X= X-7
+  Senão
+   X= X+5
+Fim se 
+
+Fim programa
+
+Operadores lógicos
+
+and | or | not 
+
+and - verifica as entrada satisfeitas, deve ser os dois verdadeiros (cenário de união)
+
+or - verifica que todas entradas podem ser verdadeiras, ou uma entrada seja já é suficiente, se duas falsa então é falso
+
+not - operador de negação, inversão do resultado lógico . Ex: Not B -> tudo que não está em B
+
+     Estrutura de repetição
+
+Laços, controle de fluxo, malhas de repetição , loop
+
+Trechos de um programa que serão estabelecidos dentro de uma estrutura de repetição, existe para isso umma condição de parada, que pode ser um número de repetições pré-fixadas ou condição a ser satisfeita.
+Qual a vatagem da estrutura de repetição?
+-redução de linhas
+- compreensão facilitada
+- redução de erro
+
+Ex: enquanto ... faça
+repita ...até
+para...de...até...faça
+
+Enquanto
+Teste lógico cortar grama:
+-inicio
+
+número de repetições
+-indefinidas
+
+
+grama=Falso
+
+Enquanto (grama==falso)faça
+
+<instrução de cortar grama>
+<atualiza grama>
+fim enquanto
+
+  Vetores e matrizes
+
+é uma sequenca de tipos de dados, com tamanho pré-fixado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
